@@ -3,9 +3,5 @@
 Ціль без LLVM (спроба).
 
 ```
-bash build.sh
-```
-
-```
-./чиста привіт.ц
+bash build.sh && bash run.sh
 ```
